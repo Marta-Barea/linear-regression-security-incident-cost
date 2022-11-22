@@ -6,7 +6,7 @@ from sklearn.linear_model import LinearRegression
 x = 2 * np.random.rand(100, 1)
 y = 4 + 3 * x + np.random.randn(100, 1)
 
-print("The lenght of the data set is:", len(x))
+print("The length of the data set is:", len(x))
 
 plt.plot(x, y, "b.")
 plt.xlabel("Equipment affected(u/1000)")
