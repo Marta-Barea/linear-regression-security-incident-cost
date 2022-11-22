@@ -1,6 +1,6 @@
 # linear-regression-security-incident-cost
 
-Application of the Linear Regression algorithm to a simple cybersecurity case to predict the cost of a security incident based on the number of computers that have been affected. 
+Application of the Linear Regression algorithm to a simple cybersecurity case to predict the cost of a security incident based on the number of equipment that have been affected. 
 The data set was randomly generated. 
 
 - Python version 3.9.13
