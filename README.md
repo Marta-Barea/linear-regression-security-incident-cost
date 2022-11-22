@@ -6,5 +6,5 @@ The data set was randomly generated.
 - Python version 3.9.13
 - numpy version 1.23.4
 - matplotlib version 3.6.2
-- Pandas version 1.5.1
+- pandas version 1.5.1
 - scikit-learn version 1.1.3
